@@ -1,5 +1,5 @@
 // Configuration options.
-var bzSiteUrl = "http://bugzilla.msec.local";
+var bzSiteUrl = "https://beta.bugzilla.redhat.com";
 var bzOrder = "priority,bug_severity,assigned_to";
 var bzAllowEditBugs = true;
 var bzShowGravatar = true;
